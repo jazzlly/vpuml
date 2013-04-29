@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectTreeState projectID="mpw44HyD.AACARGG" projectPath="/home/jiangrui/git/vpworkspace/VP_UML_STUDY.vpp">
 	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
-	<TreeState name="DiagramNavigator" viewX="14" viewY="0">
+	<TreeState name="DiagramNavigator" viewX="14" viewY="705">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>UseCaseDiagram</ExpandedPath>
 		<ExpandedPath>ClassDiagram</ExpandedPath>
 		<ExpandedPath>ActivityDiagram</ExpandedPath>
+		<ExpandedPath>PackageDiagram</ExpandedPath>
 		<ExpandedPath>ObjectDiagram</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
 		<ExpandedPath>RequirementDiagram</ExpandedPath>
 		<ExpandedPath>FreehandDiagram</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
 		<ExpandedPath>MindMapDiagram</ExpandedPath>
-		<SelectedPath>UseCaseDiagram,tvgA1HyD.AACAXRf</SelectedPath>
+		<ExpandedPath>GridDiagram</ExpandedPath>
+		<SelectedPath>MindMapDiagram,6n9pynyD.AACAc2A</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
