@@ -7,7 +7,9 @@
 	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
-		<SelectedPath>UseCaseDiagram</SelectedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>CommunicationDiagram</ExpandedPath>
+		<SelectedPath>CommunicationDiagram,X7pTXLyD.AACAReW</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0">
 		<ExpandedPath>ClassBrowser</ExpandedPath>

@@ -4,7 +4,7 @@
 		<ExpandedPath>ModelRepository</ExpandedPath>
 		<SelectedPath>ModelRepository,6PSI3HyD.AACAeBr</SelectedPath>
 	</TreeState>
-	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+	<TreeState name="DiagramNavigator" viewX="0" viewY="466">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>ClassDiagram</ExpandedPath>
@@ -12,7 +12,9 @@
 		<ExpandedPath>ComponentDiagram</ExpandedPath>
 		<ExpandedPath>PackageDiagram</ExpandedPath>
 		<ExpandedPath>ObjectDiagram</ExpandedPath>
-		<SelectedPath>ClassDiagram,GGE4jXyD.AACAX24</SelectedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<ExpandedPath>MindMapDiagram</ExpandedPath>
+		<SelectedPath>InteractionDiagram,f06LU3yD.AACAbfT</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
