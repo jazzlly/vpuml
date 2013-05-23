@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectTreeState projectID="mpw44HyD.AACARGG" projectPath="/home/jiangrui/git/vpworkspace/VP_UML_STUDY.vpp">
 	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
-	<TreeState name="DiagramNavigator" viewX="0" viewY="810">
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>UseCaseDiagram</ExpandedPath>
@@ -18,7 +18,7 @@
 		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
 		<ExpandedPath>MindMapDiagram</ExpandedPath>
 		<ExpandedPath>GridDiagram</ExpandedPath>
-		<SelectedPath>MindMapDiagram,GqW_MHyD.AACASue</SelectedPath>
+		<SelectedPath>ClassDiagram,7ZY44HyD.AACAR15</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
