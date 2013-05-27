@@ -4,7 +4,7 @@
 		<ExpandedPath>ModelRepository</ExpandedPath>
 		<SelectedPath>ModelRepository,6PSI3HyD.AACAeBr</SelectedPath>
 	</TreeState>
-	<TreeState name="DiagramNavigator" viewX="0" viewY="808">
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>ClassDiagram</ExpandedPath>
@@ -14,10 +14,12 @@
 		<ExpandedPath>ObjectDiagram</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
 		<ExpandedPath>MindMapDiagram</ExpandedPath>
-		<SelectedPath>MindMapDiagram,h2Nzk3yD.AACAYyy</SelectedPath>
+		<SelectedPath>ClassDiagram,EudDm3yD.AACAS9R</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0">
 		<ExpandedPath>ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,Java Round-trip</ExpandedPath>
+		<SelectedPath>ClassBrowser,Java Round-trip,/home/jiangrui/git/vpworkspace/tmp</SelectedPath>
 	</TreeState>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
 </ProjectTreeState>
