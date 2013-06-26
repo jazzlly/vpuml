@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="KLIshvyD.AACAUL3" projectPath="/home/jiangrui/git/vpworkspace/Android Browser Application.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+		<SelectedPath>ModelRepository,6PSI3HyD.AACAeBr</SelectedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="73">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<ExpandedPath>UserInterfaceDiagram</ExpandedPath>
+		<ExpandedPath>MindMapDiagram</ExpandedPath>
+		<SelectedPath>MindMapDiagram,byXCpvyD.AACAdPM</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0">
+		<ExpandedPath>ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,Java Round-trip</ExpandedPath>
+		<SelectedPath>ClassBrowser,Java Round-trip,/home/jiangrui/git/vpworkspace/tmp</SelectedPath>
+	</TreeState>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+</ProjectTreeState>
