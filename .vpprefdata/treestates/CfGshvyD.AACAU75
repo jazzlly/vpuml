@@ -4,14 +4,14 @@
 		<ExpandedPath>ModelRepository</ExpandedPath>
 		<SelectedPath>ModelRepository,6PSI3HyD.AACAeBr</SelectedPath>
 	</TreeState>
-	<TreeState name="DiagramNavigator" viewX="0" viewY="73">
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>ClassDiagram</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
 		<ExpandedPath>UserInterfaceDiagram</ExpandedPath>
 		<ExpandedPath>MindMapDiagram</ExpandedPath>
-		<SelectedPath>MindMapDiagram,byXCpvyD.AACAdPM</SelectedPath>
+		<SelectedPath>UseCaseDiagram</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0">
 		<ExpandedPath>ClassBrowser</ExpandedPath>
