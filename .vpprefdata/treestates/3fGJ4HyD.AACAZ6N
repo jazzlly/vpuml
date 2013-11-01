@@ -3,22 +3,7 @@
 	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
 	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
-		<ExpandedPath>UseCaseDiagram</ExpandedPath>
-		<ExpandedPath>ClassDiagram</ExpandedPath>
-		<ExpandedPath>InteractionDiagram</ExpandedPath>
-		<ExpandedPath>StateDiagram</ExpandedPath>
-		<ExpandedPath>ActivityDiagram</ExpandedPath>
-		<ExpandedPath>PackageDiagram</ExpandedPath>
-		<ExpandedPath>ObjectDiagram</ExpandedPath>
-		<ExpandedPath>InteractionOverviewDiagram</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
-		<ExpandedPath>RequirementDiagram</ExpandedPath>
-		<ExpandedPath>FreehandDiagram</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
-		<ExpandedPath>MindMapDiagram</ExpandedPath>
-		<ExpandedPath>GridDiagram</ExpandedPath>
-		<SelectedPath>ClassDiagram,7ZY44HyD.AACAR15</SelectedPath>
+		<SelectedPath>DiagramNavigator,UML Diagrams</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
